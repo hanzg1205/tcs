@@ -105,5 +105,5 @@ window.onload=function(){
 		dic[newH.x+'_'+newH.y]=true;
 		document.getElementById(newH.x+'_'+newH.y).className='b s';
 		
-	}
+	} 
 }
